@@ -14,6 +14,7 @@ int catorce;
 int quince;
 int dieciseis;
 int diecisiete;
+int dieciocho;
 
 }
 
