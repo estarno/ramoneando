@@ -11,5 +11,6 @@ int once;
 int doce;
 int trece;
 int catorce;
+int quince;
 }
 
