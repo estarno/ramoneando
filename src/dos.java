@@ -7,4 +7,5 @@ int cuatro;
 int cinco;
 int mergizandoUno;
 int cambioEstarnoLocal;
+int cambioEstarnoDos;
 }
