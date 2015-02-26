@@ -17,5 +17,6 @@ int diecisiete;
 int dieciocho;
 int mergizaFork;
 int cambioDAMUno;
+int santi;
 }
 
