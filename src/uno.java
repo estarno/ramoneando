@@ -15,6 +15,7 @@ int quince;
 int dieciseis;
 int diecisiete;
 int dieciocho;
+int mergizaFork;
 
 }
 
